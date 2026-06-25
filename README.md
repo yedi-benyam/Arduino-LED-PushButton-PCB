@@ -16,8 +16,5 @@ This project is a simple Arduino Nano PCB designed in KiCad. It demonstrates bas
 - Compact single-layer PCB
 - Designed using KiCad 10
 
-## Images
-(Add screenshots of the schematic, PCB layout, and 3D view here.)
-
 ## Author
 Yedi Benyam
